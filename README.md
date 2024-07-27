@@ -10,9 +10,9 @@ Currently, two official plugins are available:
 # Project Highlights
 
 - Developed a comprehensive AI-powered travel planner capable of generating customized itineraries based on user preferences and constraints.
-Implemented a user-friendly interface allowing users to input desired destination, travel duration, number of travelers, and budget.
-Integrated Gemini AI to process user input and generate detailed travel plans, including hotel recommendations, place suggestions, and daily itineraries.
-Curated hotel information with key details like name, address, price, images, location, ratings, and descriptions.
-Constructed day-wise itineraries suggesting places to visit, travel time, ticket pricing, and optimal visiting hours.
-Utilized Firebase for data storage, user authentication, and real-time updates.
-Enhanced user experience with a visually appealing and responsive design using Tailwind CSS.
+- Implemented a user-friendly interface allowing users to input desired destination, travel duration, number of travelers, and budget.
+- Integrated Gemini AI to process user input and generate detailed travel plans, including hotel recommendations, place suggestions, and daily itineraries.
+- Curated hotel information with key details like name, address, price, images, location, ratings, and descriptions.
+- Constructed day-wise itineraries suggesting places to visit, travel time, ticket pricing, and optimal visiting hours.
+- Utilized Firebase for data storage, user authentication, and real-time updates.
+- Enhanced user experience with a visually appealing and responsive design using Tailwind CSS.
