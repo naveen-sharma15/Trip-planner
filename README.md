@@ -1,12 +1,9 @@
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
+# Core Competencies
+- Full-stack development: Demonstrated proficiency in building complex web applications from front-end to back-end.
+- AI integration: Successfully integrated Gemini AI API to power intelligent travel planning features.
+- React expertise: Built a robust and interactive user interface using React components and state management.
+- Firebase mastery: Leveraged Firebase for real-time database, authentication, and cloud functions.
+- UI/UX design: Created a visually appealing and user-friendly interface with Tailwind CSS.
 # Project Highlights
 
 - Developed a comprehensive AI-powered travel planner capable of generating customized itineraries based on user preferences and constraints.
